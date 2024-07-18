@@ -1,5 +1,5 @@
 {
-    "title": "彩漩 PPT",
+    "title": "彩漩PPT - PPT知识付费，安全分享，遥控投屏用caixuan.cc",
     "description": "API文档及文章分享",
     "author": "jinhai",
     "output.name": "site",
@@ -67,7 +67,7 @@
             "edit": true
         },
         "tbfed-pagefooter": {
-            "copyright": "© 2022-2023  北京彩漩科技有限公司 | <a href='/' style='text-decoration:none!important;'>官网</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>网站地图</a>",
+            "copyright": "© 2022-2024  北京彩漩科技有限公司 | <a href='http://caixuan.cc' style='text-decoration:none!important;'>官网</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>网站地图</a>",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -126,7 +126,7 @@
         "logo": {
             "logo": "/assets/logo.png",
             "logoStyle": "height: 35px;align: left;",
-            "url": "/"
+            "url": "http://caixuan.cc"
         },
         "intopic-toc": {
             "selector": ".markdown-section h1, .markdown-section h2, .markdown-section h3",
@@ -141,7 +141,7 @@
             "grid-columns": 3
         },
         "canonical-link": {
-            "baseURL": "https://zcwcnb.site.chatai101.com"
+            "baseURL": "http://caixuan.cc"
         },
         "image-captions": {
             "caption": "_CAPTION_"
@@ -150,7 +150,7 @@
             "data": [
                 {
                     "name": "keywords",
-                    "content": "蓝莺IM, 美信拓扑, IM SDK, 即时通讯, 即时通讯云, IM云服务, 移动IM, 开源IM, 企业IM, 聊天软件, 移动客服, 在线客服, IM业务场景, APP社交, 开发者服务, 直播聊天室, 实时音视频, 音视频, 直播平台, 美信反垃圾, 内容安全"
+                    "content": "彩漩PPT,在线编辑PPT,PPT协同办公,PPT模板,PPT生成工具,PPT版本控制,实时协作PPT,PPT数据可视化,安全分享PPT,PPT文档管理,AI生成PPT内容,PPT文件保护,PPT市场营销工具,PPT教育工具,PPT企业培训,PPT项目管理,PPT销售演示,PPT智能创作,PPT格式转换,PPT素材复用,PPT功能详解,PPT协作平台,PPT共享,多人创作PPT,PPT水印,PPT加密分享,PPT阅读数据,PPT监测,AI优化PPT,PPT付费查看,PPT多人协作,PPT转发,PPT视频播放,手机播放PPT,微信查看PPT,PPT动画播放,PPT版本管理,PPT历史版本,PPT留资,PPT版权保护,PPT加水印,PPT更新,PPT转H5,Keynote转H5,Keynote在线查看,Keynote分享"
                 }
             ]
         },
@@ -161,9 +161,9 @@
             "tag": "G-EE5J5LB4MD"
         },
         "lanying-grow-ai": {
-            "footer_note": "本文为知识分享和技术探讨之用，涉及到公司或产品（包括但不限于蓝莺IM）介绍内容仅为参考，具体产品和功能特性以官网开通为准。",
+            "footer_note": "本文为知识分享和技术探讨只用，涉及到公司或产品（包括但不限于彩漩PPT）介绍内容仅为参考，具体产品和功能特性以官网介绍为准。",
             "lanying_link": "http://caixuan.cc",
-            "sitemap_hostname": "https://zcwcnb.site.chatai101.com/"
+            "sitemap_hostname": "http://caixuan.cc"
         }
     }
 }
